@@ -1,0 +1,6 @@
+{
+  "name": "NeoSnake Audio Player",
+  "description": "A neon aesthetic music player that features a built-in Snake game in the center, allowing you to play while listening to AI generated tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
